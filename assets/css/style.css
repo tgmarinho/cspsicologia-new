@@ -329,7 +329,6 @@ nav.scrolled .menu li a:active {
 }
 
 #about h2:after {
-	top: -23px;
 	content: "";
 	position: relative;
 	left: 50%;
@@ -441,7 +440,6 @@ nav.scrolled .menu li a:active {
 }
 
 #portfolio h2:after {
-	top: -23px;
 	content: "";
 	position: relative;
 	left: 50%;
@@ -618,7 +616,6 @@ nav.scrolled .menu li a:active {
 }
 
 #services h2:after {
-	top: -23px;
 	content: "";
 	position: relative;
 	left: 50%;
@@ -769,7 +766,6 @@ nav.scrolled .menu li a:active {
 }
 
 #testimonials h2:after {
-	top: -23px;
 	content: "";
 	position: relative;
 	left: 50%;
@@ -857,7 +853,6 @@ nav.scrolled .menu li a:active {
 }
 
 #team h2:after {
-	top: -23px;
 	content: "";
 	position: relative;
 	left: 50%;
@@ -959,7 +954,6 @@ nav.scrolled .menu li a:active {
 }
 
 #contact h2:after {
-	top: -23px;
 	content: "";
 	position: relative;
 	left: 50%;
