@@ -238,14 +238,14 @@ nav.scrolled .menu li a:active {
 }
 
 .slider-area .slide-bg-1 {
-	background-image: url("../img/capa.jpg");
+	background-image: url("../img/capa.png");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
 
 .slider-area .slide-bg-2 {
-	background-image: url("../img/capa2.jpg");
+	background-image: url("../img/capa2.png");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
