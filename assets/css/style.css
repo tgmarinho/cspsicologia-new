@@ -179,14 +179,12 @@ h6 {
 
 .core-nav .menu li.active > a {
 	color: #8aecec;
-	text-decoration: line-through;
 }
 
 .core-nav .menu li.active > a,
 .core-nav .menu li a:hover,
 .core-nav .menu li a:focus,
 .core-nav .menu li a:active {
-	text-decoration: line-through;
 	color: #8aecec;
 }
 
@@ -198,14 +196,12 @@ nav.scrolled .menu li a {
 
 nav.scrolled .menu li.active > a {
 	color: #8aecec;
-	text-decoration: line-through;
 }
 
 nav.scrolled .menu li.active > a,
 nav.scrolled .menu li a:hover,
 nav.scrolled .menu li a:focus,
 nav.scrolled .menu li a:active {
-	text-decoration: line-through;
 	color: #8aecec;
 }
 
@@ -576,7 +572,7 @@ nav.scrolled .menu li a:active {
 			CALL TO ACTION:
 ========================================================*/
 #call-to-action {
-	background: url("https://via.placeholder.com/1920x1080");
+	background: url("../img/paz.jpg");
 	background-position: center;
 	background-size: cover;
 	background-attachment: fixed;
@@ -983,7 +979,6 @@ nav.scrolled .menu li a:active {
 #contact .email-link:focus,
 #contact .email-link:active {
 	color: #8aecec;
-	text-decoration: line-through;
 }
 
 #contact .social-media {
@@ -1050,7 +1045,6 @@ footer a:hover,
 footer a:focus,
 footer a:active {
 	color: #8aecec;
-	text-decoration: line-through;
 }
 
 /*=======================================================
