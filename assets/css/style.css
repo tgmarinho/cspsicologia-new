@@ -252,15 +252,32 @@ nav.scrolled .menu li a:active {
 }
 
 .slider-area .slide-bg-3 {
-	background-image: url(https://tenor.com/view/kid-run-hallway-oops-walking-back-gif-5065669.gif),
-    url(https://tenor.com/view/dr-house-oops-gif-6118887.gif),
-    url(https://tenor.com/view/smirk-cute-girl-ups-upsperdon-gif-12046151.gif),
-    url(https://tenor.com/view/shrug-idk-kristen-bell-gif-3552887.gif);
+	background-image: url(https://tenor.com/view/kid-run-hallway-oops-walking-back-gif-5065669.gif)
+    /*url(https://tenor.com/view/dr-house-oops-gif-6118887.gif),*/
+    /*url(https://tenor.com/view/smirk-cute-girl-ups-upsperdon-gif-12046151.gif),*/
+    /*url(https://tenor.com/view/shrug-idk-kristen-bell-gif-3552887.gif);*/
 ;
 	background-size: cover;
 	background-position: initial;
 	background-repeat: no-repeat;
 }
+
+.slider-area .slide-bg-4 {
+	background-image:
+	/*url(https://tenor.com/view/snoop-snoopy-peanuts-dance-dancing-gif-5416705.gif),*/
+	/*url(https://tenor.com/view/americas-got-talent-agt-happy-smile-excited-gif-4323138.gif)*/
+	url("../img/capa.jpg")
+	/*url(https://tenor.com/view/felicity-hacking-typing-knuckles-badass-gif-5117206.gif),*/
+	/*url(https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif),*/
+	/*url(https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif)*/
+
+;
+	background-size: cover;
+	background-position: initial;
+	background-repeat: no-repeat;
+}
+
+
 
 @keyframes  random {
     15% { background-color: red; }
