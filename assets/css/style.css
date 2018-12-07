@@ -252,10 +252,22 @@ nav.scrolled .menu li a:active {
 }
 
 .slider-area .slide-bg-3 {
-	background-image: url(https://tenor.com/view/kid-run-hallway-oops-walking-back-gif-5065669.gif);
+	background-image: url(https://tenor.com/view/kid-run-hallway-oops-walking-back-gif-5065669.gif),
+    url(https://tenor.com/view/dr-house-oops-gif-6118887.gif),
+    url(https://tenor.com/view/smirk-cute-girl-ups-upsperdon-gif-12046151.gif),
+    url(https://tenor.com/view/shrug-idk-kristen-bell-gif-3552887.gif);
+;
 	background-size: cover;
 	background-position: initial;
 	background-repeat: no-repeat;
+}
+
+@keyframes  random {
+    15% { background-color: red; }
+    30% { background-color: yellow; }
+    45% { background-color: green; }
+    60% { background-color: blue; }
+    75% { background-color: white; }
 }
 
 .slider-area .tabel {
