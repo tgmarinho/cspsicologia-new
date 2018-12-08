@@ -1102,6 +1102,12 @@ footer a:active {
 	#home .main-slider h1 {
 		font-size: 3rem;
 	}
+	.slider-area .slide-bg-1 {
+		background-image: none;
+	}
+	.slider-area .slide-bg-2 {
+		background-image: none;
+	}
 }
 
 /*=======================================================
